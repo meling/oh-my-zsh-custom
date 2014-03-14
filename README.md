@@ -21,3 +21,13 @@ cd ~/.oh-my-zsh/custom
 git pull
 ```
 
+## Pushing changes (if made in the submodule folder)
+```sh
+cd ~/.oh-my-zsh/custom
+```
+Make changes to your custom files.
+```sh
+git commit -a -m 'your commit msg'
+git push
+```
+
