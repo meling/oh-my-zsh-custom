@@ -17,7 +17,7 @@ git commit -m 'Inserted customized zsh stuff'
 
 ## Update custom
 ```sh
-git submodule update
-git submodule update
+cd ~/.oh-my-zsh/custom
+git pull
 ```
 
